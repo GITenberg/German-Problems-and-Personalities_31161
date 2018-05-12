@@ -1,0 +1,51 @@
+_repo: German-Problems-and-Personalities_31161
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Sorel, Albert
+    birthdate: 1842
+    deathdate: 1906
+    gutenberg_agent_id: '41769'
+    url: http://www.gutenberg.org/2009/agents/41769
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sarolea, Charles
+    alias: Saroléa, Charles
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '35030'
+    url: http://www.gutenberg.org/2009/agents/35030
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sarol%C3%A9a
+description: ''
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31161'
+  lccn: '18006641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Intellectual life'
+- !lcc 'DD'
+- !lcsh 'Germany -- Politics and government'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Germany -- Foreign relations'
+tableOfContents: 'Introduction, by the literary editor of the New York "Times" --
+  An American preface [written for the American ed. of the "Anglo-German problem"]
+  -- My forecasts of 1906 and 1912 -- The curse of the Hohenzollern -- The German
+  war-triumvirate: Nietzsche. Montaigne and Nietzsche. Treitschke. Bernhardi -- Frederick
+  the Great: the father of Prussian militarism -- The apotheosis of Goethe -- The
+  service of the city in Germany -- The neglect of German -- Mecklenburg, the paradise
+  of Prussian junkerthum -- The German race heresy and the war -- A slump in German
+  theology -- The German enigma -- The tragic isolation of Germany: an interview with
+  a continental statesman -- Russia and Germany -- The peacemaker of Germany: Prince
+  Bernhard von Bülow -- The silence of Herr von Bethmann-Hollweg -- The coming revolution
+  in Germany -- Via pacis -- Appendix. The private morality of the Prussian kings:
+  Frederick William II, the Hohenzollern polygamist, by A. Sorel.'
+title: German Problems and Personalities
+url: http://www.gutenberg.org/ebooks/31161

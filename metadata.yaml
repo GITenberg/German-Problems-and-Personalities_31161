@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35030
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sarol%C3%A9a
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31161#German-Problems-and-Personalities
 gutenberg_issued: '2010-02-03'
 gutenberg_type: Text
 identifiers:
